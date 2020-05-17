@@ -59,7 +59,7 @@ http://image-filter-starter-code-dev2.ap-south-1.elasticbeanstalk.com/filteredim
 
 API Response of deployed app:
 
-![Alt text](/deployment_screenshots/AWS%20deployed%20response.PNG "AWS deployed response")
+![Alt text](/deployment_screenshots/AWS%20deployed%20response.png "AWS deployed response")
 
 <br>
 
