@@ -29,15 +29,15 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
 
 Local run console message:
 
-![Alt text](/deployment_screenshots/local-npm run dev-console.PNG "local-npm run dev-console")
+![Alt text](/deployment_screenshots/local-npm%20run%20dev-console.PNG "local-npm run dev-console")
 
 Local run Postman Response:
 
-![Alt text](/deployment_screenshots/local-npm run dev-response.PNG "local-npm run dev-response")
+![Alt text](/deployment_screenshots/local-npm%20run%20dev-response.PNG "local-npm run dev-response")
 
 API Response of invalid request:
 
-![Alt text](/deployment_screenshots/error handling.PNG "error handling")
+![Alt text](/deployment_screenshots/error%20handling.PNG "error handling")
 
 
 ### Deploying the system
@@ -50,7 +50,7 @@ EB environment after eb create:
 
 EB environment after eb deploy:
 
-![Alt text](/deployment_screenshots/ElasticBeanstalkDeployment-deploy updated.PNG "ElasticBeanstalkDeployment-deploy updated")
+![Alt text](/deployment_screenshots/ElasticBeanstalkDeployment-deploy%20updated.PNG "ElasticBeanstalkDeployment-deploy updated")
 
 
 <b>Link to access:</b> 
@@ -59,7 +59,7 @@ http://image-filter-starter-code-dev2.ap-south-1.elasticbeanstalk.com/filteredim
 
 API Response of deployed app:
 
-![Alt text](/deployment_screenshots/AWS deployed response.PNG "AWS deployed response")
+![Alt text](/deployment_screenshots/AWS deployed%20response.PNG "AWS deployed response")
 
 <br>
 
